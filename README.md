@@ -1,8 +1,9 @@
 # Signature
 
-Gera assinatura e realiza verificação da assinatura com base em um certificado auto-assinado.
+Gera assinatura e realiza verificação da assinatura com base em um par de chaves gerados randomicamente.
 
 Próximas implementações
 ---------
-* O próximo passo é desenvolver a assinatura e verificação com base em uma Keystore
+* Implementar a assinatura e verificação utilizando um certificado auto-assinado.
+* O próximo passo é desenvolver a assinatura e verificação com base em uma Keystore.
 
