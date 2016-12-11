@@ -16,7 +16,7 @@ import java.security.Signature;
 import java.security.SignatureException;
 import java.security.spec.X509EncodedKeySpec;
 
-public class SignatureImpl {
+public class SignatureKeysPairGenerator {
 	
 	public byte[] generate(String content) throws NoSuchAlgorithmException, NoSuchProviderException, InvalidKeyException, SignatureException, IOException{
 		
